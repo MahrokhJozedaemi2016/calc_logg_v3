@@ -1,0 +1,45 @@
+test
+2024-10-13 10:58:03,134 - INFO - Running in development environment with database user root
+2024-10-13 10:58:03,134 - INFO - Interactive calculator started.
+2024-10-13 10:58:06,885 - INFO - Prompting for numbers for add.
+2024-10-13 10:58:08,784 - INFO - Add operation: 4 add 3 = 7
+2024-10-13 10:58:13,702 - INFO - Prompting for numbers for subtract.
+2024-10-13 10:58:17,008 - INFO - Subtract operation: 5 subtract 4 = 1
+2024-10-13 11:05:08,774 - INFO - User exited the calculator.
+2024-10-13 11:05:15,654 - INFO - Running in development environment with database user root
+2024-10-13 11:05:15,654 - INFO - Interactive calculator started.
+2024-10-13 11:05:18,549 - INFO - Prompting for numbers for add.
+2024-10-13 11:05:20,303 - INFO - Add operation: 4 add 3 = 7
+2024-10-13 11:05:24,407 - INFO - Prompting for numbers for subtract.
+2024-10-13 11:05:28,622 - INFO - Subtract operation: 5 subtract 4 = 1
+2024-10-13 11:05:33,331 - INFO - Displayed 2 history items.
+2024-10-13 11:08:58,603 - INFO - User exited the calculator.
+2024-10-13 11:09:07,612 - INFO - Running in development environment with database user root
+2024-10-13 11:09:07,612 - INFO - Interactive calculator started.
+2024-10-13 11:09:25,627 - INFO - Displaying menu options.
+2024-10-13 11:09:28,461 - INFO - Prompting for numbers for divide.
+2024-10-13 11:09:30,923 - INFO - Divide operation: 3 divide 7 = 0.4285714285714285714285714286
+2024-10-13 11:09:30,923 - INFO - Added calculation to history: Divide 3 by 7 = 0.4285714285714285714285714286
+2024-10-13 11:09:38,083 - WARNING - Invalid command entered.
+2024-10-13 11:09:39,374 - WARNING - Invalid command entered.
+2024-10-13 11:09:39,920 - WARNING - Invalid command entered.
+2024-10-13 11:09:48,643 - INFO - Prompting for numbers for multiply.
+2024-10-13 11:09:50,713 - INFO - Multiply operation: 3 multiply 4 = 12
+2024-10-13 11:09:50,714 - INFO - Added calculation to history: Multiply 3 and 4 = 12
+2024-10-13 11:09:55,719 - INFO - Retrieving calculation history with 2 items.
+2024-10-13 11:09:55,720 - INFO - Displayed 2 history items.
+2024-10-13 11:13:36,692 - INFO - User exited the calculator.
+2024-10-13 11:13:42,912 - INFO - Running in development environment with database user root
+2024-10-13 11:13:42,912 - INFO - Interactive calculator started.
+2024-10-13 11:13:49,240 - INFO - Displaying menu options.
+2024-10-13 11:13:53,140 - INFO - Prompting for numbers for divide.
+2024-10-13 11:13:56,260 - INFO - Calculator initialized with empty history and plugins.
+2024-10-13 11:13:56,261 - INFO - Executed command: Divide 6 by 3 = 2. Result: 2
+2024-10-13 11:13:56,261 - INFO - Divide operation: 6 divide 3 = 2
+2024-10-13 11:13:56,262 - INFO - Added calculation to history: Divide 6 by 3 = 2
+2024-10-13 11:14:10,273 - INFO - Prompting for numbers for multiply.
+2024-10-13 11:14:12,109 - INFO - Calculator initialized with empty history and plugins.
+2024-10-13 11:14:12,109 - INFO - Executed command: Multiply 4 and 5 = 20. Result: 20
+2024-10-13 11:14:12,109 - INFO - Multiply operation: 4 multiply 5 = 20
+2024-10-13 11:14:12,109 - INFO - Added calculation to history: Multiply 4 and 5 = 20
+2024-10-13 11:18:03,549 - INFO - User exited the calculator.
